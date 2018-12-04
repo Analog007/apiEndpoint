@@ -1,0 +1,134 @@
+[
+    {
+      "id": "5c0547c4fedc36fd8a9d9796",
+      "reviewer": 570825,
+      "managerOfReviewer": 888294,
+      "reviewee": 533004,
+      "managerOfReviewee": 806163,
+      "textualSummary": "Eiusmod duis ad eu eiusmod aliqua laborum laboris. Tempor occaecat laboris ex sit incididunt ut velit et. Proident fugiat minim in proident dolore ut et adipisicing aliqua enim fugiat excepteur dolor.\r\n",
+      "criteria": [
+        "dolore",
+        "amet",
+        "est",
+        "magna",
+        "elit",
+        "duis",
+        "ad"
+      ],
+      "createdDate": "2015-07-11T05:53:30 -02:00",
+      "lastUpdatedDate": "2019-01-03T12:47:44 -01:00",
+      "dueDate": "2018-12-25T02:02:08 -01:00",
+      "deletable": true,
+      "visible": false
+    },
+    {
+      "id": "5c0547c4e0d0482c12fcc061",
+      "reviewer": 468260,
+      "managerOfReviewer": 986915,
+      "reviewee": 112334,
+      "managerOfReviewee": 726161,
+      "textualSummary": "Cupidatat occaecat dolor cupidatat elit elit minim magna nisi. Consectetur velit magna anim pariatur commodo. Eu culpa reprehenderit tempor laborum deserunt esse eu ut. Tempor do ullamco nulla ex nulla incididunt tempor in pariatur voluptate. Amet elit tempor sunt sit pariatur anim exercitation pariatur voluptate.\r\n",
+      "criteria": [
+        "officia",
+        "adipisicing",
+        "sunt",
+        "adipisicing",
+        "excepteur",
+        "magna",
+        "deserunt"
+      ],
+      "createdDate": "2018-02-16T05:49:35 -01:00",
+      "lastUpdatedDate": "2018-12-07T03:39:11 -01:00",
+      "dueDate": "2018-12-25T06:05:24 -01:00",
+      "deletable": false,
+      "visible": true
+    },
+    {
+      "id": "5c0547c42aa6609f0ff418e7",
+      "reviewer": 803940,
+      "managerOfReviewer": 629116,
+      "reviewee": 868373,
+      "managerOfReviewee": 756750,
+      "textualSummary": "Quis et velit elit nostrud incididunt elit ut esse do velit officia reprehenderit consectetur incididunt. Exercitation tempor ad pariatur laboris consequat. Quis duis dolor magna Lorem do adipisicing deserunt nulla cillum in anim sit. Qui cupidatat culpa veniam amet culpa non laboris velit in non voluptate velit laborum do. Enim amet nulla culpa eu labore adipisicing reprehenderit dolor nostrud aute nulla. Consectetur cillum laborum consequat eu cillum deserunt aute sunt officia anim consectetur reprehenderit duis sint.\r\n",
+      "criteria": [
+        "laborum",
+        "labore",
+        "cupidatat",
+        "enim",
+        "aliqua",
+        "magna",
+        "exercitation"
+      ],
+      "createdDate": "2018-10-10T06:14:48 -02:00",
+      "lastUpdatedDate": "2019-01-02T07:28:23 -01:00",
+      "dueDate": "2018-12-10T04:24:10 -01:00",
+      "deletable": true,
+      "visible": false
+    },
+    {
+      "id": "5c0547c4c898d0210605521a",
+      "reviewer": 899582,
+      "managerOfReviewer": 494267,
+      "reviewee": 273812,
+      "managerOfReviewee": 453936,
+      "textualSummary": "Magna Lorem veniam ex eiusmod velit sit id irure eu eu laborum anim. Non ut culpa tempor commodo consectetur non nostrud. Magna dolore commodo proident sunt est anim anim nostrud Lorem aliqua. Nulla adipisicing ea officia dolore minim laboris.\r\n",
+      "criteria": [
+        "ipsum",
+        "mollit",
+        "non",
+        "amet",
+        "ullamco",
+        "esse",
+        "esse"
+      ],
+      "createdDate": "2018-07-01T11:10:17 -02:00",
+      "lastUpdatedDate": "2018-12-08T02:42:47 -01:00",
+      "dueDate": "2018-12-08T08:54:10 -01:00",
+      "deletable": false,
+      "visible": false
+    },
+    {
+      "id": "5c0547c43f0d3cab641e838e",
+      "reviewer": 320398,
+      "managerOfReviewer": 160400,
+      "reviewee": 627083,
+      "managerOfReviewee": 246302,
+      "textualSummary": "Aliqua sunt enim amet adipisicing nulla sit velit qui excepteur aliquip non est. Eu deserunt laborum veniam cupidatat non fugiat do qui sit dolore proident consectetur reprehenderit mollit. Occaecat voluptate pariatur occaecat irure est deserunt. Dolore nulla ea adipisicing sit enim consectetur quis.\r\n",
+      "criteria": [
+        "cillum",
+        "deserunt",
+        "laborum",
+        "veniam",
+        "culpa",
+        "magna",
+        "aliqua"
+      ],
+      "createdDate": "2017-03-29T02:09:45 -02:00",
+      "lastUpdatedDate": "2018-12-30T02:16:02 -01:00",
+      "dueDate": "2018-12-06T01:40:17 -01:00",
+      "deletable": true,
+      "visible": true
+    },
+    {
+      "id": "5c0547c488dda660a4ae7410",
+      "reviewer": 584544,
+      "managerOfReviewer": 135106,
+      "reviewee": 722896,
+      "managerOfReviewee": 713883,
+      "textualSummary": "Esse ut officia ad quis consectetur. Proident ullamco exercitation ut magna. Mollit aliqua ipsum velit adipisicing sunt nisi nulla eiusmod cupidatat aute et qui nulla commodo. Minim veniam consequat eu quis laborum in ad dolor qui. Eu dolore mollit ex magna occaecat adipisicing occaecat. Occaecat laborum quis nisi do.\r\n",
+      "criteria": [
+        "aute",
+        "aliquip",
+        "elit",
+        "fugiat",
+        "dolore",
+        "sint",
+        "et"
+      ],
+      "createdDate": "2014-02-23T10:53:08 -01:00",
+      "lastUpdatedDate": "2018-12-09T02:06:25 -01:00",
+      "dueDate": "2018-12-29T07:53:42 -01:00",
+      "deletable": false,
+      "visible": false
+    }
+  ]
